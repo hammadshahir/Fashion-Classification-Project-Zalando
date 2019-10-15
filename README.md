@@ -1,5 +1,5 @@
 # Fashion Classification Project Zalando
- <strong<A Deep Learning Model in Convotional Neural Network to Classifiy Images</strong>
+ <strong>A Deep Learning Model in Convotional Neural Network to Classifiy Images</strong>
 
 ### Dataset
 <p> You can download dataset from the this <a href="https://www.kaggle.com/zalando-research/fashionmnist">url</a>.
